@@ -1,0 +1,13 @@
+name: Database-App
+title: Database-App
+username:
+account: anamika-basu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3836728
+bundleId: 4383168
+url: https://anamika-basu.shinyapps.io/Database-App/
+when: 1616481067.54315
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: smallest_merged_file.tsv
